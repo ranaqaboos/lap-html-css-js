@@ -1,0 +1,13 @@
+body{
+     background-color:  gray ;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 20% 50%;
+}
+
+#stsrt-btn{
+    background-color:#fc76a1 ;
+    padding: 20px 60px;
+    border-radius: 16%;
+}
